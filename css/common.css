@@ -251,6 +251,10 @@ footer li{
     height: 90vh;
 }
 
+.h-full{
+    height: 100%;
+}
+
 .w-60p{
     width: 60%;
 }
@@ -307,6 +311,10 @@ footer li{
     transition: color 0.5s, border-color 0.5s;
 }
 
+.fit-text{
+    font-size: 1.6vw;
+}
+
 
 /* Media queries!!! */
 @media (max-width: 768px) {   
@@ -342,6 +350,10 @@ footer li{
     .subtitle-1{
         padding-left: 10px;
         padding-right: 10px;
+    }
+
+    .fit-text{
+        font-size: 1.2em;
     }
 
     footer ul li{
