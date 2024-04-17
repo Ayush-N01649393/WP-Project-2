@@ -140,7 +140,7 @@ div{
 }
 
 .bg-panreel{
-    background-image: url('/images/pan_reel.png');
+    background-image: url('../images/pan_reel.png');
     background-color: antiquewhite;
     background-position: center;
     background-size: cover;
